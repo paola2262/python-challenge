@@ -19,10 +19,10 @@ After finishing the financial analysis, the format_output() function creates a r
 Finally, the script prints out these results for you to see.(Line 53)
 
 **Results** 
-*The dataset covers a specific period, giving us an overview of the company's financial performance during that time.
+-The dataset covers a specific period, giving us an overview of the company's financial performance during that time.
 *Adding up all the profits and losses shows us the overall financial outcome. This tells us whether the company made a profit or loss during the reviewed period.
-*Calculating the average change between months helps us see how the company's finances evolved over time. A positive change means steady growth, while a negative one indicates a decline.
-*Identifying the months with the highest profit increases and decreases helps us find important times of financial success or trouble. Figuring out what caused these changes can give us useful insights into how the company works and how outside factors impact its profits.
+-Calculating the average change between months helps us see how the company's finances evolved over time. A positive change means steady growth, while a negative one indicates a decline.
+-Identifying the months with the highest profit increases and decreases helps us find important times of financial success or trouble. Figuring out what caused these changes can give us useful insights into how the company works and how outside factors impact its profits.
 
 
 **Contributing** 
