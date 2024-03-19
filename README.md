@@ -51,11 +51,11 @@ Finally, the script identifies the election winner based on the candidate with t
 In general, the PyPoll script offers a comprehensive understanding of the election results, encompassing voter choices and candidate performance, thus providing valuable insights into the electoral process.
 
 **Contributing - PyBank & Pypoll** 
-Contributions to this script were made possible with the support of various resources and individuals:
--AskBCS Student Support: Assistance from the AskBCS support team was instrumental in providing guidance and clarification on certain aspects of the script.
--Class Materials: The code was adapted from materials provided during class sessions, serving as a foundation for the development of the script.
--Collaboration with Astrid Apopa: Collaborative efforts with Astrid Apopa included several knowledge-sharing sessions where we discussed and exchanged insights to enhance the script.
--Class Practice and Learning Tools: The script benefited from the practical exercises conducted in class and utilized tools such as ChatGPT and Xpert Learning Assistant to further refine and expand its functionality.
+Contributions to these scripts were made possible with the support of various resources and individuals:
+-AskBCS Student Support: Assistance from the AskBCS support team was instrumental in providing guidance and clarification on certain aspects of the scripts.
+-Class Materials: These codes were adapted from materials provided during class sessions, serving as a foundation for the development of the script.
+-Collaboration with Astrid Apopa: Collaborative efforts with Astrid Apopa included several knowledge-sharing sessions where we discussed and exchanged insights to enhance the scripts.
+-Class Practice and Learning Tools: The scripts benefited from the practical exercises conducted in class and utilized tools such as ChatGPT and Xpert Learning Assistant to further refine and expand its functionality.
 
 
 
